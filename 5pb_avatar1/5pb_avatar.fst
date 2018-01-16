@@ -1,6 +1,6 @@
 name = 5pb_avatar
 type = body+head
-scale = 1.7
+scale = 1.5
 filename = 5pb_avatar/5pb_avatar.fbx
 texdir = 5pb_avatar/textures
 joint = jointLeftHand = LeftHand
