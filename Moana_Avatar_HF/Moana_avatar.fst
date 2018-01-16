@@ -1,7 +1,7 @@
 name = Moana_avatar
 type = body+head
 scale = 1.1
-filename = Moana_avatar/ma.fbx
+filename = Moana_avatar/moana_avatar.fbx
 texdir = Moana_avatar/textures
 joint = jointRoot = Hips
 joint = jointHead = Head
