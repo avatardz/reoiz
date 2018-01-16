@@ -1,6 +1,6 @@
 name = 5pb_avatar
 type = body+head
-scale = 1
+scale = 1.7
 filename = 5pb_avatar/5pb_avatar.fbx
 texdir = 5pb_avatar/textures
 joint = jointLeftHand = LeftHand
@@ -34,7 +34,7 @@ jointIndex = LeftHandRing4 = 49
 jointIndex = RightHandPinky3 = 20
 jointIndex = RightHandPinky2 = 19
 jointIndex = LeftHandRing1 = 46
-jointIndex = face = 68
+jointIndex = face = 66
 jointIndex = RightUpLeg = 1
 jointIndex = RightLeg = 2
 jointIndex = RightHandIndex1 = 30
@@ -81,4 +81,4 @@ jointIndex = LeftHandMiddle3 = 52
 jointIndex = RightHandRing1 = 22
 jointIndex = LeftHandPinky1 = 42
 jointIndex = RightHand = 17
-jointIndex = acc = 66
+jointIndex = acc = 68
