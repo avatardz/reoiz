@@ -1,6 +1,6 @@
 name = Moana_Avatar
 type = body+head
-scale = 1.1
+scale = 1.0
 filename = Moana_Avatar/Moana_Avatar.fbx
 texdir = Moana_Avatar/textures
 joint = jointHead = Head
