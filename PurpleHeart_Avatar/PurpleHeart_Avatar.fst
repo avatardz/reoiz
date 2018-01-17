@@ -1,6 +1,6 @@
 name = PurpleHeart_Avatar
 type = body+head
-scale = 1.6
+scale = 1.4
 filename = PurpleHeart_Avatar/PurpleHeart_Avatar.fbx
 texdir = PurpleHeart_Avatar/textures
 joint = jointRoot = Hips
