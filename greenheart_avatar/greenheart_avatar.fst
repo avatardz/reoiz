@@ -1,6 +1,6 @@
 name = greenheart_avatar
 type = body+head
-scale = 1.1
+scale = 1.3
 filename = greenheart_avatar/greenheart_avatar.fbx
 texdir = greenheart_avatar/textures
 joint = jointRoot = Hips
