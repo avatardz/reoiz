@@ -1,6 +1,6 @@
 name = compa_avatar_hf
 type = body+head
-scale = 1.2
+scale = 1.5
 filename = compa_avatar_hf/compa_avatar_hf.fbx
 texdir = compa_avatar_hf/textures
 joint = jointRoot = Hips
