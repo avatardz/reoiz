@@ -1,6 +1,6 @@
 name = PurpleSister_Avatar
 type = body+head
-scale = 1.3
+scale = 1.1
 filename = PurpleSister_Avatar/PurpleSister_Avatar.fbx
 texdir = PurpleSister_Avatar/textures
 joint = jointRightHand = RightHand
