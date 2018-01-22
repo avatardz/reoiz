@@ -1,6 +1,6 @@
 name = BlackHeart_Avatar
 type = body+head
-scale = 1.23
+scale = 1.12
 filename = BlackHeart_Avatar/BlackHeart_Avatar.fbx
 texdir = BlackHeart_Avatar/textures
 joint = jointLean = Spine
