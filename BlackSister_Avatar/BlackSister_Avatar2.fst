@@ -1,6 +1,6 @@
 name = BlackSister_Avatar2
 type = body+head
-scale = 1
+scale = .95
 filename = BlackSister_Avatar2/BlackSister_Avatar2.fbx
 texdir = BlackSister_Avatar2/textures
 joint = jointLean = Spine
