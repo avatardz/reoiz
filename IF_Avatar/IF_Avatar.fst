@@ -1,6 +1,6 @@
 name = IF_Avatar
 type = body+head
-scale = 1.3
+scale = 1.25
 filename = IF_Avatar/IF_Avatar.fbx
 texdir = IF_Avatar/textures
 joint = jointLeftHand = LeftHand
