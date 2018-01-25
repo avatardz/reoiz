@@ -1,6 +1,6 @@
 name = IrisHeart_Avatar
 type = body+head
-scale = 1.1
+scale = 1.0
 filename = IrisHeart_Avatar/IrisHeart_Avatar.fbx
 texdir = IrisHeart_Avatar/textures
 joint = jointNeck = Neck
