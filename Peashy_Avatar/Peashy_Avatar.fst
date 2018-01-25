@@ -1,6 +1,6 @@
 name = Peashy_Avatar
 type = body+head
-scale = 1
+scale = 1.5
 filename = Peashy_Avatar/Peashy_Avatar.fbx
 texdir = Peashy_Avatar/textures
 joint = jointNeck = Neck
