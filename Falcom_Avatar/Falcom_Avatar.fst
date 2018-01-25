@@ -1,6 +1,6 @@
 name = Falcom_Avatar
 type = body+head
-scale = 1.1
+scale = 1.3
 filename = Falcom_Avatar/Falcom_Avatar.fbx
 texdir = Falcom_Avatar/textures
 joint = jointNeck = Neck
