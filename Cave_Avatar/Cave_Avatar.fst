@@ -1,6 +1,6 @@
 name = Cave_Avatar
 type = body+head
-scale = 1.16
+scale = 1.03
 filename = Cave_Avatar/Cave_Avatar.fbx
 texdir = Cave_Avatar/textures
 joint = jointHead = Head
