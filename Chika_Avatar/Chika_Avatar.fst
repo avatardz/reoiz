@@ -1,6 +1,6 @@
 name = Chika_Avatar
 type = body+head
-scale = 1
+scale = 1.06
 filename = Chika_Avatar/Chika_Avatar.fbx
 texdir = Chika_Avatar/textures
 joint = jointHead = Head
