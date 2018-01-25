@@ -1,6 +1,6 @@
 name = Mina_Avatar
 type = body+head
-scale = 0.85
+scale = 0.79
 filename = Mina_Avatar/Mina_Avatar.fbx
 texdir = Mina_Avatar/textures
 joint = jointNeck = Neck
