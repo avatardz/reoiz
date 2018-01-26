@@ -1,6 +1,6 @@
 name = Neptune_Avatar
 type = body+head
-scale = 1.05
+scale = 1.25
 filename = Neptune_Avatar/Neptune_Avatar.fbx
 texdir = Neptune_Avatar/textures
 joint = jointLean = Spine
