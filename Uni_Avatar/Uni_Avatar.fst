@@ -1,6 +1,6 @@
 name = Uni_Avatar
 type = body+head
-scale = 1
+scale = 1.08
 filename = Uni_Avatar/Uni_Avatar.fbx
 texdir = Uni_Avatar/textures
 joint = jointLean = Spine
