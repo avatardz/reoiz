@@ -1,6 +1,6 @@
 name = Vert_Avatar
 type = body+head
-scale = 1
+scale = 1.2
 filename = Vert_Avatar/Vert_Avatar.fbx
 texdir = Vert_Avatar/textures
 joint = jointLean = Spine
