@@ -1,6 +1,6 @@
 name = Megaman_Avatar
 type = body+head
-scale = 2.5
+scale = 2.25
 filename = Megaman_Avatar/Megaman_Avatar.fbx
 texdir = Megaman_Avatar/textures
 joint = jointRightHand = RightHand
