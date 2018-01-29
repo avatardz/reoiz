@@ -1,6 +1,6 @@
 name = Bowser_Avatar
 type = body+head
-scale = 4
+scale = 4.8
 filename = Bowser_Avatar/Bowser_Avatar.fbx
 texdir = Bowser_Avatar/textures
 joint = jointRightHand = RightHand
