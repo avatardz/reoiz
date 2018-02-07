@@ -1,6 +1,6 @@
 name = Aatrox_Avatar
 type = body+head
-scale = 1
+scale = 1.6
 filename = Aatrox_Avatar/Aatrox_Avatar.fbx
 texdir = Aatrox_Avatar/textures
 joint = jointLeftHand = LeftHand
