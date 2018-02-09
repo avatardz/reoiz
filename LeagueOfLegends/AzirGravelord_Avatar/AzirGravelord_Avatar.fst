@@ -1,6 +1,6 @@
 name = AzirGravelord_Avatar
 type = body+head
-scale = 1
+scale = .9
 filename = AzirGravelord_Avatar/AzirGravelord_Avatar.fbx
 texdir = AzirGravelord_Avatar/textures
 joint = jointRoot = Hips
