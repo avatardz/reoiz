@@ -1,6 +1,6 @@
 name = EkkoSKT1_Avatar1
 type = body+head
-scale = 1
+scale = .7
 filename = EkkoSKT1_Avatar1/EkkoSKT1_Avatar1.fbx
 texdir = EkkoSKT1_Avatar1/textures
 joint = jointHead = Head
