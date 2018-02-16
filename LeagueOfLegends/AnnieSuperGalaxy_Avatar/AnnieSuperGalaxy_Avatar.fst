@@ -1,6 +1,6 @@
 name = AnnieSuperGalaxy_Avatar
 type = body+head
-scale = 1
+scale = .68
 filename = AnnieSuperGalaxy_Avatar/AnnieSuperGalaxy_Avatar.fbx
 texdir = AnnieSuperGalaxy_Avatar/textures
 joint = jointHead = Head
