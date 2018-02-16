@@ -1,6 +1,6 @@
 name = EvelynnMasquerade_Avatar1
 type = body+head
-scale = 1
+scale = .8
 filename = EvelynnMasquerade_Avatar1/EvelynnMasquerade_Avatar1.fbx
 texdir = EvelynnMasquerade_Avatar1/textures
 joint = jointHead = Head
