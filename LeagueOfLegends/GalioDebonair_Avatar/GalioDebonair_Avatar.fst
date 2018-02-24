@@ -1,6 +1,6 @@
 name = GalioDebonair_Avatar
 type = body+head
-scale = 1
+scale = .85
 filename = GalioDebonair_Avatar/GalioDebonair_Avatar.fbx
 texdir = GalioDebonair_Avatar/textures
 joint = jointRoot = Hips
