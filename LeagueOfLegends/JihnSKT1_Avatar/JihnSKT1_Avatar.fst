@@ -1,6 +1,6 @@
 name = JihnSKT1_Avatar
 type = body+head
-scale = 1
+scale = .9
 filename = JihnSKT1_Avatar/JihnSKT1_Avatar.fbx
 texdir = JihnSKT1_Avatar/textures
 joint = jointRoot = Hips
