@@ -1,6 +1,6 @@
 name = PoppyStarGuardian_Avatar
 type = body+head
-scale = 1
+scale = .7
 filename = PoppyStarGuardian_Avatar/PoppyStarGuardian_Avatar.fbx
 texdir = PoppyStarGuardian_Avatar/textures
 joint = jointLean = Spine
