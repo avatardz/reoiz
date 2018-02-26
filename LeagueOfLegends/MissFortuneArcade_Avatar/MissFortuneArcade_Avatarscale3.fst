@@ -1,6 +1,6 @@
 name = MissFortuneArcade_Avatarscale3
 type = body+head
-scale = 3
+scale = 2.6
 filename = MissFortuneArcade_Avatarscale3/MissFortuneArcade_Avatarscale3.fbx
 texdir = MissFortuneArcade_Avatarscale3/textures
 joint = jointLean = Spine
