@@ -1,6 +1,6 @@
 name = LucianHeartbreaker_Avatar
 type = body+head
-scale = 1
+scale = .87
 filename = LucianHeartbreaker_Avatar/LucianHeartbreaker_Avatar.fbx
 texdir = LucianHeartbreaker_Avatar/textures
 joint = jointLean = Spine
