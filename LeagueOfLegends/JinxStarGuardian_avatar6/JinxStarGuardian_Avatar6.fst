@@ -1,6 +1,6 @@
 name = JinxStarGuardian_Avatar6
 type = body+head
-scale = 1
+scale = .8
 filename = JinxStarGuardian_Avatar6/JinxStarGuardian_Avatar6.fbx
 texdir = JinxStarGuardian_Avatar6/textures
 joint = jointLean = Spine
