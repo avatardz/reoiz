@@ -1,6 +1,6 @@
 name = Sivir_Avatar1
 type = body+head
-scale = 1
+scale = .87
 filename = Sivir_Avatar1/Sivir_Avatar1.fbx
 texdir = Sivir_Avatar1/textures
 joint = jointLean = Spine
