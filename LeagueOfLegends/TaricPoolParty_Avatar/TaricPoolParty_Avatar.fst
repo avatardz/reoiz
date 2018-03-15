@@ -1,6 +1,6 @@
 name = TaricPoolParty_Avatar
 type = body+head
-scale = 1
+scale = .85
 filename = TaricPoolParty_Avatar/TaricPoolParty_Avatar.fbx
 texdir = TaricPoolParty_Avatar/textures
 joint = jointLean = Spine
