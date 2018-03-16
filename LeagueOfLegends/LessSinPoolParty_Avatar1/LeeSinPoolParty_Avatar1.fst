@@ -1,6 +1,6 @@
 name = LeeSinPoolParty_Avatar1
 type = body+head
-scale = 1
+scale = 1.45
 filename = LeeSinPoolParty_Avatar1/LeeSinPoolParty_Avatar1.fbx
 texdir = LeeSinPoolParty_Avatar1/textures
 joint = jointNeck = Neck
